@@ -151,7 +151,7 @@ public class LoginTests {
         loginButton.click();
         System.out.println("Login button clicked successfully");
 
-        Thread.sleep(2000);
+        Thread.sleep(8000);
         driver.quit();
         }
 
